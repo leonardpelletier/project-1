@@ -2,6 +2,8 @@ float angle = 0;
 float change = 0;
 boolean isBlack = true;
 
+
+//here's a comment bruh
 void setup() {
   size (600, 600, P2D);
   smooth();
